@@ -1,0 +1,12 @@
+[app]
+app_intro = """
+
+
+"""
+[tooltips]
+country = "Select one of the possible countries to visualise your variable."
+variable = "Select one of the possible variables to visualise."
+radius = "Search radius from coordinates as center in meters. Maximum of 25,000 (25km) defaults to 1000 (1km) e.g. radius=10000" 
+[links]
+repo = ""
+other_link = ""
